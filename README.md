@@ -1,9 +1,37 @@
-Enjoy the Free code + Assets 😍
-- Support us on YouTube Channel: [https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ](https://www.youtube.com/@TheCodingJourney)
+# Food Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive food landing page built with React and styled using Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
+- Fully responsive design
+- Tailwind CSS for styling
+- Built with React for a dynamic user interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+Check out the live version of the website: [Food Landing Page Demo](https://foodlanding-page.vercel.app/)
+
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/KUMARESAN-PANDA/foodlanding_page.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd foodlanding_page
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the development server:
+    ```bash
+    npm start
+    ```
+
+## Technologies
+- React
+- Tailwind CSS
+
+## Author
+Kumaresan  
+GitHub: [KUMARESAN-PANDA](https://github.com/KUMARESAN-PANDA)
